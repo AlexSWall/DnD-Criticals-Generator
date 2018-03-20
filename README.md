@@ -1,0 +1,1 @@
+# Criticals Generator
